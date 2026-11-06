@@ -1,0 +1,10 @@
+# Arquivos de ambiente e IDEs
+.vscode/
+.idea/
+*.swp
+*.pyc
+__pycache__/
+
+# Arquivos de dados de testes locais (opcional ignorar os CSVs brutos)
+*.csv
+calibracao.json
